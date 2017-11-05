@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.drkiettran.aep.selenium.AdoptingOnePetTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-11-04T22:12:36" hostname="vagrant" time="3.976">
+  <properties/>
+  <testcase name="adoptingOnePetTest" classname="com.drkiettran.aep.selenium.AdoptingOnePetTest" time="3.976"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.33.506092 (733a02544d189eeb751fe0d7ddca79a0ee28cce4) on port 13081
+Only local connections are allowed.
+Nov 04, 2017 10:12:37 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+</testsuite>
